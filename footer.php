@@ -43,7 +43,7 @@
              <h5 class="mb-4 text-white text-uppercase font-weight-bold">Categories</h5>
              <div class="m-n1">
                  <?php
-
+                    
                     ?>
              </div>
          </div>
